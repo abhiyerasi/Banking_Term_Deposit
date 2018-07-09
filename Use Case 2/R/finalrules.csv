@@ -1,0 +1,11 @@
+"","rules","support","confidence","lift","count"
+"36","{housing=no,contact=cellular,poutcome=success} => {output=yes}",0.0624057315233786,0.949784791965567,1.90495690549645,662
+"148","{housing=no,contact=cellular,previous=Contacted Few days,poutcome=success} => {output=yes}",0.0624057315233786,0.949784791965567,1.90495690549645,662
+"157","{default=no,housing=no,contact=cellular,poutcome=success} => {output=yes}",0.0624057315233786,0.949784791965567,1.90495690549645,662
+"368","{default=no,housing=no,contact=cellular,previous=Contacted Few days,poutcome=success} => {output=yes}",0.0624057315233786,0.949784791965567,1.90495690549645,662
+"156","{housing=no,loan=no,contact=cellular,poutcome=success} => {output=yes}",0.0601432880844646,0.949404761904762,1.90419468978743,638
+"367","{housing=no,loan=no,contact=cellular,previous=Contacted Few days,poutcome=success} => {output=yes}",0.0601432880844646,0.949404761904762,1.90419468978743,638
+"371","{default=no,housing=no,loan=no,contact=cellular,poutcome=success} => {output=yes}",0.0601432880844646,0.949404761904762,1.90419468978743,638
+"563","{default=no,housing=no,loan=no,contact=cellular,previous=Contacted Few days,poutcome=success} => {output=yes}",0.0601432880844646,0.949404761904762,1.90419468978743,638
+"5","{housing=no,poutcome=success} => {output=yes}",0.0687217194570136,0.94921875,1.90382161089053,729
+"29","{housing=no,previous=Contacted Few days,poutcome=success} => {output=yes}",0.0687217194570136,0.94921875,1.90382161089053,729
